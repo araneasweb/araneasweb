@@ -4,4 +4,4 @@ heya :D i’m anahita
 
 [my gists](https://gist.github.com/araneasweb)
 
-[also on codeberg](https://codeberg.org/araneasweb)
+[mostly on codeberg](https://codeberg.org/araneasweb)
